@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'Apr 27, 2021',
-  name: 'Angeline Romauli Sabatini'
+  name: 'Angeline Romauli Sabatini Syangs'
 };
 
 function hideEverything() {
